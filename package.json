@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "request": "^2.74.0"
+    "request": "https://github.com/Sealights/request/archive/ad8b7bda6ba3df0a297daa7e6465a87c09cf0508.tar.gz"
   },
   "engines": {
     "node": ">= 6.0.0"
